@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.dhacha {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 auto;
+  width: 70%;
+}
+.form{
+  margin:20px;
+}
+.form button{
+  background-color: green;
+  color:white;
+  text-align: end;
+}
